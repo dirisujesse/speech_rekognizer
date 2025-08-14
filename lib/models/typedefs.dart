@@ -1,0 +1,1 @@
+typedef ResultCallback<T> = void Function(T result);
